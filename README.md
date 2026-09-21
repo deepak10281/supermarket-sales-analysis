@@ -71,7 +71,7 @@ The supplied dataset contains 500 sales transactions.
    jupyter notebook
    ```
 5. Open:
-   `DeepakMalviya_SupermarketSalesAnalysis.ipynb`
+   `Super_market_Sales_Analysis.ipynb`
 6. Keep the source Excel file in the same folder or update the file path in the notebook.
 7. Run the cells from top to bottom.
 
@@ -79,7 +79,7 @@ The supplied dataset contains 500 sales transactions.
 Upload the `.ipynb` notebook and the Excel dataset to Google Colab, then update the file path if necessary.
 
 ## Files Submitted
-- `DeepakMalviya_SupermarketSalesAnalysis.ipynb` — complete Python/Jupyter code
+- `Super_Market_Sales_Analysis.ipynb` — complete Python/Jupyter code
 - `requirements.txt` — Python dependencies
-- `DeepakMalviya_ProjectReport.docx` — project report
+- `Super_Market_Sales_ProjectReport.docx` — project report
 - `README.md` — project overview and setup instructions
